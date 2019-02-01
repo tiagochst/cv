@@ -46,6 +46,7 @@ date_format = "January 2006"
   Developed and enhanced a bioinformatic tools to integrate and understand aberrant epigenomic and genomic changes associated with cancer associated with cancer.
   
   Key achievements:
+  
   * Improved the performance of the tool by more than 50% compared to previous version.
   * Improved data mining efficiency by creating an easy HTML report summarizing all results that would be easily understandable by any user (Example available at https://tiagochst.github.io/ELMER_supplemental/).
   * Publication of the work in a peer reviewed article (https://doi.org/10.1093/bioinformatics/bty902)
@@ -64,6 +65,7 @@ date_format = "January 2006"
   sGathered requirements, customized, tested a new system for customer delivery of software tools. 
   
   Key achievements:
+  
   * Modeled business process with Business Process Model and Notation (BPMN)
   * Provided useful information for decision processes by data mining Oracle database using SQL language.
   """
@@ -79,6 +81,7 @@ date_format = "January 2006"
   Gathered requirements, customized, tested, and supported SAP Financial module for a bank. 
   
   Key achievements:
+  
   * Successfully transition between the customer system and the new system.
   * Provided training workshops and a complete documentations of the system use.
   """
