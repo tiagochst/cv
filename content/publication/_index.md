@@ -14,4 +14,21 @@ list_format = 3
 [header]
 image = ""
 caption = ""
+
+[[item]]
+  title = "Neural Networks and Deep Learning"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  title = "Neural Networks and Deep Learning"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+
 +++
