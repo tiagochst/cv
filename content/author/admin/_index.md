@@ -103,5 +103,5 @@ Core competencies:
 - Research and development 
 - Problem-solving 
 - Customer oriented 
-- Team spirit 
+- High performance teams
 - High impact presentations
