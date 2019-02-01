@@ -22,19 +22,16 @@ weight = 9
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "wine-glass-alt"
   icon_pack = "fas"
   name = "French"
   description = "Fluent"
   
 [[feature]]
-  icon = "flag-usa"
   icon_pack = "fas"
   name = "English"
   description = "Fluent"  
   
 [[feature]]
-  icon = "futbol"
   icon_pack = "fas"
   name = "Portuguese"
   description = "Native"
