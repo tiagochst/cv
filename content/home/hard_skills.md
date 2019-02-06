@@ -25,25 +25,25 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "50%"  
+  description = ""  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Data analysis"
-  description = "10%"
+  description = ""
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Computer programming"
-  description = "100%"  
+  description = ""  
   
   
 
@@ -51,14 +51,14 @@ weight = 7
   icon = "github-square"
   icon_pack = "fab"
   name = "Git"
-  description = "60%"  
+  description = ""  
   
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Bioinformatics"
-  description = "80%"  
+  description = ""  
 
 
   
